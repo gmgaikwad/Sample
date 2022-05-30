@@ -1,5 +1,5 @@
 class Sample {
 	public void doSample(){
-		System.out.println("hioji");
+		System.out.println("Sample Java");
 	}
 }
